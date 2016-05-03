@@ -1,0 +1,20 @@
+[
+	//1级导航
+	{"id":"nav1","name":"导航一","href":"www.baidu.com","pId":0},
+	{"id":"nav2","name":"导航二","href":"www.baidu.com","pId":0},
+	{"id":"nav3","name":"导航三","href":"www.baidu.com","pId":0},
+	{"id":"nav4","name":"导航四","href":"www.baidu.com","pId":0},
+	{"id":"nav5","name":"导航五","href":"www.baidu.com","pId":0},
+	{"id":"nav6","name":"导航六","href":"www.baidu.com","pId":0},
+	{"id":"nav7","name":"导航七","href":"www.baidu.com","pId":0},
+	{"id":"nav8","name":"导航八","href":"www.baidu.com","pId":0},
+	{"id":"nav9","name":"导航九","href":"www.baidu.com","pId":0},
+	{"id":"nav10","name":"导航十","href":"www.baidu.com","pId":0},
+	{"id":"nav11","name":"导航十一","href":"www.baidu.com","pId":0},
+	//2级导航
+	{"id":"nav1-1","name":"导航七","href":"www.baidu.com","pId":"nav1"},
+	{"id":"nav1-2","name":"导航八","href":"www.baidu.com","pId":"nav1"},
+	{"id":"nav1-3","name":"导航九","href":"www.baidu.com","pId":"nav1"},
+	{"id":"nav1-4","name":"导航十","href":"www.baidu.com","pId":"nav1"},
+	{"id":"nav1-5","name":"导航十一","href":"www.baidu.com","pId":"nav1"}
+	]
